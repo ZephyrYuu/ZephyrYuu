@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Zichen (Zane) Yu 👋
 
-<!--
-**ZephyrYuu/ZephyrYuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master's student in Computer Science at
+**Northwestern Polytechnical University (NWPU)**.
 
-Here are some ideas to get you started:
+My research interests include continual learning, vision-language learning,
+cross-modal retrieval, and text-based person retrieval.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Continual and lifelong learning
+- Vision-language learning
+- Cross-modal retrieval
+- Text-based person retrieval
+- Knowledge distillation
+
+## Contact
+
+- Email: chenyzc@outlook.com
+- Institution: Northwestern Polytechnical University
