@@ -7,7 +7,6 @@ I am a Master's student in Computer Science at
 
 - Continual and lifelong learning
 - Vision-language learning
-- Cross-modal retrieval
 - Text-based person retrieval
 - Knowledge distillation
 
