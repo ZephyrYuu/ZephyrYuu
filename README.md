@@ -3,9 +3,6 @@
 I am a Master's student in Computer Science at
 **Northwestern Polytechnical University (NWPU)**.
 
-My research interests include continual learning, vision-language learning,
-cross-modal retrieval, and text-based person retrieval.
-
 ## Research Interests
 
 - Continual and lifelong learning
